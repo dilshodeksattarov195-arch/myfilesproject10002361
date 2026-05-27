@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvalidate",
+        "uuid": 2292531,
+        "checksum": "h89wi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
